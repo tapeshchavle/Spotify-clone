@@ -1,7 +1,6 @@
-i# Spotify Clone
+# Spotify Clone
 
-# Description
-
+<h2>Description</h2>
 This project is a simple clone of the Spotify web interface, created using only HTML and CSS. The aim of this project is to replicate the basic design and layout of Spotify's popular music streaming service, providing a visually similar user experience.
 
 # Features
